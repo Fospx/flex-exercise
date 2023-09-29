@@ -37,3 +37,18 @@ input {
   width: 400px;
   margin-bottom: 16px;
 }
+
+.header,
+.footer {
+  display: flex;
+  justify-content: space-between;
+  padding: 16px; 
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none; 
+  display: flex;
+  gap: 16px;
+}
