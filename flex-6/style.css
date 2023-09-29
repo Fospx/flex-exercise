@@ -45,6 +45,15 @@ input {
   padding: 16px; 
 }
 
+.footer {
+  background: #eee;
+}
+
+a {
+  color: #666;
+  text-decoration: none;
+}
+
 ul {
   margin: 0;
   padding: 0;
